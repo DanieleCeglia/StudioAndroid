@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:compat="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/MENU_1"
+        compat:showAsAction="ifRoom"
+        android:title="Nuova nota"/>
+    <item
+        android:id="@+id/MENU_2"
+        compat:showAsAction="ifRoom"
+        android:title="Elenco note aaaaa"/>
+</menu>
