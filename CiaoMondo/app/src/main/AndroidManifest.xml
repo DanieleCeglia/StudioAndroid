@@ -32,7 +32,7 @@
             android:parentActivityName=".MainActivity" />
         <activity
             android:name=".ListViewActivity"
-            android:parentActivityName=".AreaRiservata"></activity>
+            android:parentActivityName=".AreaRiservata" />
     </application>
 
 </manifest>
