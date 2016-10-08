@@ -169,7 +169,8 @@ public class MyWebView extends AppCompatActivity {
             </script>
             */
 
-            wvSito.loadUrl("http://www.html.it");
+            
+            wvSito.loadUrl("http://www.openstreetmap.org/#map=14/46.1822/12.9452");
         }
 
         // prove permessi...
